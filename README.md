@@ -1,4 +1,4 @@
-# EchoScript-Text-to-Speech-Convertor
+# EchoScript
 EchoScript is a text-speech-convertor, which takes input from the user and speaks the provided text;
 ![image](https://github.com/texas38923/EchoScript-Text-to-Speech-Convertor/assets/67150797/81872857-fee7-4c74-8313-c9cbff5caec3)
 
